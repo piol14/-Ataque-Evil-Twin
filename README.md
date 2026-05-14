@@ -60,15 +60,15 @@ Lanzamos el ataque con `sudo hostapd-wpe /etc/hostapd-wpe/hostapd-wpe.conf`, cre
 #### - Paso 7: Interacción de la Víctima
 Vamos al movil victima y podremos ver que hay 2 redes CETI:
 
-![redes duplicadas](https://github.com/user-attachments/assets/5d699bc0-7f9f-4b3b-a563-d4fc516ca73f)
+<img src="https://github.com/user-attachments/assets/5d699bc0-7f9f-4b3b-a563-d4fc516ca73f" width="30%" />
 
 Ponemos el usuario y contraseña que en este caso sera `ceti` `ceti`:
 
-![login victima](https://github.com/user-attachments/assets/c266f8b6-09cf-4bae-b1e0-03d04804866d)
+<img src="https://github.com/user-attachments/assets/c266f8b6-09cf-4bae-b1e0-03d04804866d" width="30%" />
 
 Dara error de conexión ya que esta red no tiene salida a internet:
 
-![error conexion](https://github.com/user-attachments/assets/51042f71-4e85-4aa0-a900-e8aa17666459)
+<img src="https://github.com/user-attachments/assets/51042f71-4e85-4aa0-a900-e8aa17666459" width="30%" />
 
 #### - Paso 8: Captura del Handshake
 Volviendo a la Kali atacante podremos ver que esta ha capturado el nombre del usuario y el hash de la contraseña:

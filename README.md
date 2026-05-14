@@ -1,7 +1,7 @@
 # Ataque-Evil-Twin
  Ataque Evil Twin contra WPA2 Enterprise
 ## Definición 
-Ataque que consiste en crear un punto de acceso Wi-Fi fraudulento que parece ser una red legítima realizando una clonacion de su SSID. El objetivo es engañar a los dispositivos cercanos para que se conecten automáticamente al atacante. Se utiliza para realizar ataques de Man-in-the-Middle (MITM), capturar hashes de autenticación (MS-CHAPv2) o realizar phishing mediante portales cautivos.
+Ataque que consiste en crear un punto de acceso Wi-Fi fraudulento que parece ser una red legítima realizando una clonacion de su SSID. El objetivo es engañar a los dispositivos cercanos para que se conecten automáticamente al atacante. Se utiliza para capturar hashes de autenticación (MS-CHAPv2)
 
 
 ## Funcionamiento 
